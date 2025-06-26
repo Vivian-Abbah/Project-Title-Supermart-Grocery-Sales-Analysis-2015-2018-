@@ -1,6 +1,7 @@
-# Project-Title-Supermart-Grocery-Sales-Analysis-2015-2018-
+# Supermart-Grocery-Sales-Analysis-2015-2018-
 
 Introduction
+
 The modern grocery retail industry is undergoing a rapid transformation driven by evolving consumer expectations, digitalization, and intensifying market competition. Operating on thin profit margins, retailers must now move beyond traditional strategies and embrace data as a critical asset. In this dynamic landscape, understanding customer behavior, product performance, and regional dynamics becomes imperative. This project centers around Supermart’s historical sales data from 2015 to 2018 to uncover key performance patterns and provide business intelligence that can drive informed decisions. Through the use of advanced visual storytelling and data modeling in Power BI, the aim is to equip stakeholders with deep, interactive insights that go far beyond static reports and unlock new opportunities for growth, profitability, and operational efficiency.
 
 ![Uploading Supermart Grocery Sales Dashboard1.png…]()
